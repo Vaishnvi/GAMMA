@@ -13,6 +13,12 @@ To install requirements:
 pip install -r requirements.txt
 ```
 
+## Dataset
+
+Download the dataset from, [drive](https://drive.google.com/file/d/1QnVqF-S4kzd9RfMj5Urbjwq0l1SJSn80/view?usp=sharing)
+
+Put it in the main directory structure under _Pytorch_training_workspace_ directory.
+
 ## Prerequisites
 
 Python 2.7 or 3.6
@@ -59,4 +65,5 @@ Our model achieves the following state-of-the-art performance on Marine Debris D
 | Method         | Dataset  | Plastic |  Rov | Bio  | mAP
 | -------------- |--------- | ------- |------| -----| ----
 | GAMMA (Ours)   | GAMMA    | 95.6    | 90.3 | 93.0 | 93.0
+
 
