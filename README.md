@@ -1,4 +1,3 @@
->📋  A template README.md for code accompanying a Machine Learning paper
 
 # GAMMA : Generative Augmentation for Attentive Marine Debris Detection
 
