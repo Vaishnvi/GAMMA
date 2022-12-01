@@ -1,7 +1,7 @@
 
 # GAMMA : Generative Augmentation for Attentive Marine Debris Detection
 
-This repository is the official implementation of our NeurIPS 2021 submission titled, "GAMMA : Generative Augmentation for Attentive Marine Debris Detection" 
+This repository is the official implementation of our work titled, "GAMMA : Generative Augmentation for Attentive Marine Debris Detection" 
 
 ## Requirements
 
