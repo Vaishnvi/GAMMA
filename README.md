@@ -3,6 +3,8 @@
 
 This repository is the official implementation of our work titled, "GAMMA : Generative Augmentation for Attentive Marine Debris Detection" 
 
+![image](https://user-images.githubusercontent.com/24861262/205289994-ceb2d35e-2811-4b11-9dc1-f839ce6e6b05.png)
+
 ## Requirements
 
 Please follow this repository for setup, https://github.com/jwyang/faster-rcnn.pytorch
